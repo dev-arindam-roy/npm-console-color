@@ -1,5 +1,5 @@
 {
-  "name": "arindam-console-color",
+  "name": "@arindam/console-color",
   "version": "1.0.0",
   "description": "A library to print console log in different colors. Like: danger, success, info, highlight",
   "main": "./dist/index.js",
